@@ -1,0 +1,21 @@
+{
+  "name": "leon",
+  "version": "1.0.0",
+  "description": "client; created as a multi-purpose Discord.js Bot.",
+  "main": "LeOn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Khan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.5.1",
+    "eslint": "^7.14.0",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.0",
+    "request": "^2.88.2",
+    "unzipper": "^0.10.11",
+    "urban": "^0.3.2"
+  }
+}

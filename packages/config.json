@@ -1,0 +1,16 @@
+{
+	"name": "Leon",
+	"prefix": "?",
+	"token": "Njk2MDc4NzM1MzQ1OTc1NDE2.Xojf1w.YJkGT1MrvLymPgKTkudImngxLY8",
+	"meaning_of_life": 17,
+	"passwords_array": ["Nice", "Work", "Hacking", "Into", "Garbage"],
+	"secret_passcodes": {
+		"bank": 800900, 
+		"home": 647562
+	},
+	"secret_info":{
+		"LeOn_age": 17,
+		"LeOn_Hobbies": ["Texting", "Music", "Coding", "Being a Bitch..."],
+		"LeOn_Mood": "Neutral Atm"
+	}
+}
